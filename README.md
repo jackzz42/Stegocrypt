@@ -1,8 +1,8 @@
-private for now 
+stegocrypt
 
 🚀 Overview
 
-This is a private for now App that allows users to:
+This is a stegocrypt now App that allows users to:
 
 Encrypt & Decrypt files (Text, PDFs, Images, Videos, Audio)
 
