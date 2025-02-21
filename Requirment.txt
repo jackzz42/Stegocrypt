@@ -1,0 +1,6 @@
+flask
+cryptography
+stegano
+pyttsx3
+gunicorn
+flask-cors
