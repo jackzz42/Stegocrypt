@@ -15,3 +15,16 @@ This is a **Secure Media Web App** that allows users to:
 ✅ Web-based UI (Accessible from any browser)  
 
 ## 📂 Project Structure
+## 🔧 Installation & Setup
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/YOUR-USERNAME/secure-media-app.git
+cd secure-media-app
+
+cd backend
+pip install -r requirements.txt
+python app.py
+
+cd frontend
+npm install
+npm start
