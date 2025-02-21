@@ -34,10 +34,11 @@ Serves React Frontend from Flask Backend
 
 1️⃣ Clone the Repository
 
-https://github.com/jackzz42/Private-for-now-.git
+
+https://github.com/jackzz42/Stegocrypt.git
 
 
-cd private-for-now
+cd Stegocrypt 
 
 2️⃣ Install Dependencies
 
