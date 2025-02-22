@@ -1,0 +1,6 @@
+flask
+flask-socketio
+cryptography
+stegano
+werkzeug
+gunicorn
