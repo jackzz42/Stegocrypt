@@ -7,7 +7,10 @@ StegoCrypt is a **secure, real-time chat and file-sharing app** that uses **encr
 ✅ **Real-time chat** (Instant messaging via WebSockets)  
 ✅ **File encryption & sharing** (Send encrypted files securely)  
 ✅ **Steganography** (Hide messages inside images)  
-✅ **Voice & video sharing** (Secure multimedia communication)  
+✅ **Voice & video sharing** (Secure multimedia communication) 
+
+## 🔗 Connect with Me
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the Repository
