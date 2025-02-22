@@ -1,21 +1,89 @@
-/* General Styles */ body { font-family: Arial, sans-serif; background-color: #121212; color: white; text-align: center; margin: 0; padding: 0; }
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
 
-/* Login Page */ #stegocrypt-login-container { width: 300px; margin: 100px auto; background: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1); }
+/* Login Page */
+#stegocrypt-login-container {
+    width: 300px;
+    margin: 100px auto;
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
+}
 
-input { width: 90%; padding: 10px; margin: 10px 0; border: none; border-radius: 5px; background: #2a2a2a; color: white; }
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    background: #2a2a2a;
+    color: white;
+    outline: none;
+}
 
-button { width: 100%; padding: 10px; background: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; transition: background 0.3s; }
+button {
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
 
-button:hover { background: #0056b3; }
+button:hover {
+    background: #0056b3;
+}
 
-/* Chat Page */ #stegocrypt-chat-container { display: none; width: 90%; max-width: 600px; margin: 50px auto; background: #1e1e1e; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1); }
+/* Chat Page */
+#stegocrypt-chat-container {
+    display: none;
+    width: 90%;
+    max-width: 600px;
+    margin: 50px auto;
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
+}
 
-#stegocrypt-chat-box { height: 300px; background: #1e1e1e; padding: 10px; border-radius: 10px; overflow-y: scroll; box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1); text-align: left; }
+#stegocrypt-chat-box {
+    height: 300px;
+    background: #1e1e1e;
+    padding: 10px;
+    border-radius: 10px;
+    overflow-y: auto;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1);
+    text-align: left;
+    word-break: break-word;
+}
 
-.stegocrypt-hidden { display: none; }
+.stegocrypt-hidden {
+    display: none;
+}
 
-/* Enhancements */ #stegocrypt-chat-box p { background: #2a2a2a; padding: 8px; border-radius: 5px; margin: 5px 0; display: inline-block; max-width: 80%; word-wrap: break-word; }
+/* Enhancements */
+#stegocrypt-chat-box p {
+    background: #2a2a2a;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 5px 0;
+    display: inline-block;
+    max-width: 80%;
+    word-wrap: break-word;
+    color: white;
+}
 
-#stegocrypt-chat-box strong { color: #ffcc00; }
-
-
+#stegocrypt-chat-box strong {
+    color: #ffcc00;
+  }
+  
