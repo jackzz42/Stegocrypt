@@ -29,6 +29,15 @@ chmod +x start_stegocrypt.sh
 ```sh
 python stegocrypt.py
 ```
+## 🌍 Deploy on Render (Free Hosting)
+1. Push your code to GitHub
+2. Sign up on [Render](https://render.com/)
+3. Create a **New Web Service** → Connect GitHub repo
+4. Set the **Start Command**:
+   ```sh
+   gunicorn stegocrypt:app
+   ```
+
 ## 🤝 Contributing
 We welcome contributions! Check [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
