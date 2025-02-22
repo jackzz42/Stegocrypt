@@ -29,10 +29,7 @@ chmod +x start_stegocrypt.sh
 ```sh
 python stegocrypt.py
 ```
-5. Click **Deploy** & Get Your **Live App URL**
-
-## 🤝 Contributing
-We welcome contributions! Check [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+## 🤝 Contributing We welcome contributions! Check [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
