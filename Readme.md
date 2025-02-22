@@ -40,6 +40,16 @@ python stegocrypt.py
    ```sh
    gunicorn stegocrypt:app
    ```
+## 🔗 How Can Friends Join?
+Once the script is running, your friends can connect using:
+- If hosted **locally** (same Wi-Fi): Share your **local IP address** and port.
+  ```sh
+  http://YOUR_LOCAL_IP:PORT
+  ```
+- If hosted on **Render (or any cloud service)**: Share the **public URL** (e.g., `https://stegocrypt.onrender.com`).
+
+Friends must **register first**, and the **admin (host) must approve them** before they can chat & share files.
+
 
 ## 🤝 Contributing
 We welcome contributions! Check [CONTRIBUTING.md](CONTRIBUTING.md) for details.
