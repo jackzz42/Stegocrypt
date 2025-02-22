@@ -1,0 +1,6 @@
+Flask
+Flask-SocketIO
+cryptography
+stegano
+Werkzeug
+python-dotenv
